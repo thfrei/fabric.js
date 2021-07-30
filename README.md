@@ -1,3 +1,8 @@
+# CUSTOM BUILD
+
+* removed jsdom in `HEADER.js` to omit webpack 5 issue. See: https://github.com/thfrei/infinite-drawing-canvas#fabric-adaptions
+
+
 ## Fabric.js
 
 <!-- build/coverage status, climate -->
